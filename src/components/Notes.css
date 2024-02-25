@@ -1,0 +1,10 @@
+.notes-container {
+  text-align: left;
+  background-color: rgb(222, 224, 224);
+  padding: 3%;
+  border-radius: 10px;
+}
+
+.note {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,27 @@
+.DraftEditor-root {
+  border: 1px solid #efdada;
+  padding: 1.5%;
+  margin: 1%;
+  margin-left: 4%;
+  margin-right: 4%;
+  font-size: 16px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.DraftEditor-editorContainer {
+  min-height: 130px;
+  height: auto;
+}
+
+.DraftEditor-editor {
+  border: 1px solid #f2d9d9;
+  padding: 8px;
+  overflow-y: auto;
+}
+
+.public-DraftStyleDefault-pre {
+  display: inline;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
