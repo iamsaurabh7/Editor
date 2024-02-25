@@ -2,6 +2,8 @@
 
 A simple React application featuring a Draft.js editor with additional functionality.
 
+## LIVE : https://editor-sv.netlify.app/
+
 ## Features
 
 - **Heading Format**: Typing `# ` as the first string in a line and pressing space makes the text appear as a heading.
